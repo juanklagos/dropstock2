@@ -1,0 +1,888 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DHWC Elementor\n"
+"POT-Creation-Date: 2020-11-27 09:53+0700\n"
+"PO-Revision-Date: 2020-11-27 09:53+0700\n"
+"Last-Translator: \n"
+"Language-Team: Sitesao\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/admin.php:60 includes/admin.php:74 includes/admin.php:130
+#: includes/admin.php:180 includes/admin.php:205
+msgid "Select a template&hellip;"
+msgstr ""
+
+#: includes/admin.php:62 includes/admin.php:75
+#, php-format
+msgid "Select content template for this %s"
+msgstr ""
+
+#: includes/admin.php:107 includes/post-types.php:31 includes/settings.php:176
+msgid "Product Template"
+msgstr ""
+
+#: includes/admin.php:116
+msgid "Currently use content template by:"
+msgstr ""
+
+#: includes/editor.php:111
+msgid "WC Single Product"
+msgstr ""
+
+#: includes/editor.php:115 includes/widgets/cart.php:10
+msgid "WC Cart"
+msgstr ""
+
+#: includes/editor.php:119 includes/widgets/checkout.php:10
+msgid "WC Checkout"
+msgstr ""
+
+#: includes/editor.php:123 includes/widgets/my_account.php:10
+msgid "WC My Account"
+msgstr ""
+
+#: includes/editor.php:127
+msgid "WC Archive"
+msgstr ""
+
+#: includes/editor.php:131
+msgid "WooCommerce"
+msgstr ""
+
+#: includes/functions.php:48
+msgid "Product Tag page"
+msgstr ""
+
+#: includes/functions.php:49
+msgid "Product Category page"
+msgstr ""
+
+#: includes/functions.php:50
+msgid "Product Brand page"
+msgstr ""
+
+#: includes/functions.php:57
+msgid "Downloadable product"
+msgstr ""
+
+#: includes/functions.php:58
+msgid "Virtual product"
+msgstr ""
+
+#: includes/functions.php:398
+msgid "Product type downloadable "
+msgstr ""
+
+#: includes/functions.php:401
+msgid "Product type virtual "
+msgstr ""
+
+#: includes/functions.php:414
+msgid "Product type"
+msgstr ""
+
+#: includes/functions.php:422
+msgid "Product Category"
+msgstr ""
+
+#: includes/functions.php:434 includes/settings.php:181
+msgid "Default Template"
+msgstr ""
+
+#: includes/plugin.php:64
+#, php-format
+msgid ""
+"<strong>%s</strong> requires <strong><a href=\"https://elementor.com/\" "
+"target=\"_blank\">Elementor Page Builder</a></strong> plugin to be installed "
+"and activated on your site."
+msgstr ""
+
+#: includes/plugin.php:69
+#, php-format
+msgid ""
+"<strong>%s</strong> requires <strong><a href=\"http://www.woothemes.com/"
+"woocommerce/\" target=\"_blank\">WooCommerce</a></strong> plugin to be "
+"installed and activated on your site."
+msgstr ""
+
+#: includes/post-types.php:30
+msgid "Product Templates"
+msgstr ""
+
+#: includes/post-types.php:33
+msgid "Add Product Template"
+msgstr ""
+
+#: includes/post-types.php:34
+msgid "Add New Product Template"
+msgstr ""
+
+#: includes/post-types.php:35 includes/post-types.php:67
+msgid "Edit"
+msgstr ""
+
+#: includes/post-types.php:36 includes/template.php:109
+msgid "Edit Product Template"
+msgstr ""
+
+#: includes/post-types.php:37
+msgid "New Product Template"
+msgstr ""
+
+#: includes/post-types.php:38 includes/post-types.php:39
+msgid "View Product Template"
+msgstr ""
+
+#: includes/post-types.php:40
+msgid "Search Product Templates"
+msgstr ""
+
+#: includes/post-types.php:41
+msgid "No Product Templates found"
+msgstr ""
+
+#: includes/post-types.php:42
+msgid "No Product Templates found in trash"
+msgstr ""
+
+#: includes/post-types.php:43
+msgid "Parent Product Template"
+msgstr ""
+
+#: includes/post-types.php:62 includes/settings.php:7 includes/settings.php:35
+msgid "Page Templates"
+msgstr ""
+
+#: includes/post-types.php:63
+msgid "Page Template"
+msgstr ""
+
+#: includes/post-types.php:65
+msgid "Add Page Template"
+msgstr ""
+
+#: includes/post-types.php:66
+msgid "Add New Page Template"
+msgstr ""
+
+#: includes/post-types.php:68
+msgid "Edit Page Template"
+msgstr ""
+
+#: includes/post-types.php:69
+msgid "New Page Template"
+msgstr ""
+
+#: includes/post-types.php:70 includes/post-types.php:71
+msgid "View Page Template"
+msgstr ""
+
+#: includes/post-types.php:72
+msgid "Search Page Templates"
+msgstr ""
+
+#: includes/post-types.php:73
+msgid "No Page Templates found"
+msgstr ""
+
+#: includes/post-types.php:74
+msgid "No Page Templates found in trash"
+msgstr ""
+
+#: includes/post-types.php:75
+msgid "Parent Page Template"
+msgstr ""
+
+#: includes/settings.php:13
+msgid "Product templates"
+msgstr ""
+
+#: includes/settings.php:14
+msgid "Page templates"
+msgstr ""
+
+#: includes/settings.php:28
+msgid "Select page template&hellip;"
+msgstr ""
+
+#: includes/settings.php:40
+msgid "Account login"
+msgstr ""
+
+#: includes/settings.php:46 includes/settings.php:57 includes/settings.php:68
+#: includes/settings.php:79 includes/settings.php:90 includes/settings.php:101
+#: includes/settings.php:124 includes/settings.php:139
+#: includes/settings.php:152
+msgid "Create page template in menu: WooCommerce &rarr; Page Templates."
+msgstr ""
+
+#: includes/settings.php:51
+msgid "Cart"
+msgstr ""
+
+#: includes/settings.php:62
+msgid "Cart Empty"
+msgstr ""
+
+#: includes/settings.php:73
+msgid "Checkout"
+msgstr ""
+
+#: includes/settings.php:84
+msgid "Thankyou"
+msgstr ""
+
+#: includes/settings.php:95
+msgid "Checkout order receipt"
+msgstr ""
+
+#: includes/settings.php:112
+msgid "Product Archive Template"
+msgstr ""
+
+#: includes/settings.php:118
+msgid "Shop "
+msgstr ""
+
+#: includes/settings.php:146
+msgid "Product Attribute page"
+msgstr ""
+
+#: includes/settings.php:164
+msgid "Select default template&hellip;"
+msgstr ""
+
+#: includes/settings.php:182
+msgid "This controls what is product template default."
+msgstr ""
+
+#: includes/settings.php:198
+msgid "Product Types"
+msgstr ""
+
+#: includes/settings.php:205
+#, php-format
+msgid "Template for: %s"
+msgstr ""
+
+#: includes/settings.php:206
+msgid "This controls what is custom template for product type."
+msgstr ""
+
+#: includes/template.php:118
+msgid "Edit Cart Template"
+msgstr ""
+
+#: includes/template.php:128
+msgid "Edit Checkout Template"
+msgstr ""
+
+#: includes/widgets/account_login.php:11
+msgid "WC Account Login"
+msgstr ""
+
+#: includes/widgets/account_register.php:11
+msgid "WC Account Register"
+msgstr ""
+
+#: includes/widgets/account_register.php:78
+msgid "Not allow WooCommerce Account Registration"
+msgstr ""
+
+#: includes/widgets/archive_description.php:10
+msgid "WC Archive Description"
+msgstr ""
+
+#: includes/widgets/archive_description.php:31
+msgid "Archive description placeholder"
+msgstr ""
+
+#: includes/widgets/archive_products.php:10
+msgid "WC Archive Products"
+msgstr ""
+
+#: includes/widgets/archive_title.php:11
+msgid "WC Archive Title"
+msgstr ""
+
+#: includes/widgets/archive_title.php:26
+#: includes/widgets/single_product_images.php:27
+#: includes/widgets/single_product_price.php:26
+#: includes/widgets/single_product_title.php:28
+msgid "Style"
+msgstr ""
+
+#: includes/widgets/archive_title.php:34
+#: includes/widgets/single_product_title.php:36
+msgid "HTML Tag"
+msgstr ""
+
+#: includes/widgets/archive_title.php:51
+#: includes/widgets/single_product_price.php:33
+#: includes/widgets/single_product_title.php:53
+msgid "Text Color"
+msgstr ""
+
+#: includes/widgets/best_selling_products.php:11
+msgid "WC Best Selling Products"
+msgstr ""
+
+#: includes/widgets/best_selling_products.php:33
+#: includes/widgets/best_selling_products.php:36
+#: includes/widgets/cart_cross_sells.php:33
+#: includes/widgets/cart_cross_sells.php:36
+#: includes/widgets/featured_products.php:32
+#: includes/widgets/featured_products.php:35
+#: includes/widgets/product_attribute.php:52
+#: includes/widgets/product_attribute.php:55
+#: includes/widgets/product_category.php:57
+#: includes/widgets/product_category.php:60 includes/widgets/products.php:43
+#: includes/widgets/products.php:46 includes/widgets/recent_products.php:32
+#: includes/widgets/recent_products.php:35
+#: includes/widgets/sale_products.php:32 includes/widgets/sale_products.php:35
+#: includes/widgets/single_product_related_products.php:31
+#: includes/widgets/single_product_related_products.php:34
+#: includes/widgets/single_product_upsell_products.php:31
+#: includes/widgets/single_product_upsell_products.php:34
+#: includes/widgets/top_rated_products.php:33
+#: includes/widgets/top_rated_products.php:36
+msgid "Product Per Page"
+msgstr ""
+
+#: includes/widgets/best_selling_products.php:43
+#: includes/widgets/best_selling_products.php:46
+#: includes/widgets/cart_cross_sells.php:43
+#: includes/widgets/cart_cross_sells.php:46
+#: includes/widgets/featured_products.php:42
+#: includes/widgets/featured_products.php:45
+#: includes/widgets/product_attribute.php:62
+#: includes/widgets/product_attribute.php:65
+#: includes/widgets/product_categories.php:67
+#: includes/widgets/product_categories.php:70
+#: includes/widgets/product_category.php:67
+#: includes/widgets/product_category.php:70 includes/widgets/products.php:54
+#: includes/widgets/products.php:57 includes/widgets/recent_products.php:42
+#: includes/widgets/recent_products.php:45
+#: includes/widgets/sale_products.php:42 includes/widgets/sale_products.php:45
+#: includes/widgets/single_product_related_products.php:41
+#: includes/widgets/single_product_related_products.php:44
+#: includes/widgets/single_product_upsell_products.php:41
+#: includes/widgets/single_product_upsell_products.php:44
+#: includes/widgets/top_rated_products.php:43
+#: includes/widgets/top_rated_products.php:46
+msgid "Columns"
+msgstr ""
+
+#: includes/widgets/best_selling_products.php:53
+#: includes/widgets/best_selling_products.php:56
+#: includes/widgets/cart_cross_sells.php:53
+#: includes/widgets/cart_cross_sells.php:56
+#: includes/widgets/featured_products.php:52
+#: includes/widgets/featured_products.php:55
+#: includes/widgets/product_attribute.php:72
+#: includes/widgets/product_attribute.php:75
+#: includes/widgets/product_categories.php:77
+#: includes/widgets/product_categories.php:80
+#: includes/widgets/product_category.php:77
+#: includes/widgets/product_category.php:80 includes/widgets/products.php:64
+#: includes/widgets/products.php:67 includes/widgets/recent_products.php:52
+#: includes/widgets/recent_products.php:55
+#: includes/widgets/sale_products.php:52 includes/widgets/sale_products.php:55
+#: includes/widgets/single_product_related_products.php:50
+#: includes/widgets/single_product_related_products.php:53
+#: includes/widgets/single_product_upsell_products.php:50
+#: includes/widgets/single_product_upsell_products.php:53
+#: includes/widgets/top_rated_products.php:53
+#: includes/widgets/top_rated_products.php:56
+msgid "Products Ordering"
+msgstr ""
+
+#: includes/widgets/best_selling_products.php:58
+#: includes/widgets/cart_cross_sells.php:58
+#: includes/widgets/featured_products.php:57
+#: includes/widgets/product_attribute.php:77
+#: includes/widgets/product_categories.php:82
+#: includes/widgets/product_category.php:82 includes/widgets/products.php:69
+#: includes/widgets/recent_products.php:57
+#: includes/widgets/sale_products.php:57
+#: includes/widgets/single_product_related_products.php:55
+#: includes/widgets/single_product_upsell_products.php:55
+#: includes/widgets/top_rated_products.php:58
+msgid "Publish Date"
+msgstr ""
+
+#: includes/widgets/best_selling_products.php:59
+#: includes/widgets/cart_cross_sells.php:59
+#: includes/widgets/featured_products.php:58
+#: includes/widgets/product_attribute.php:78
+#: includes/widgets/product_categories.php:83
+#: includes/widgets/product_category.php:83 includes/widgets/products.php:70
+#: includes/widgets/recent_products.php:58
+#: includes/widgets/sale_products.php:58
+#: includes/widgets/single_product_related_products.php:56
+#: includes/widgets/single_product_upsell_products.php:56
+#: includes/widgets/top_rated_products.php:59
+msgid "Modified Date"
+msgstr ""
+
+#: includes/widgets/best_selling_products.php:60
+#: includes/widgets/cart_cross_sells.php:60
+#: includes/widgets/featured_products.php:59
+#: includes/widgets/product_attribute.php:79
+#: includes/widgets/product_categories.php:84
+#: includes/widgets/product_category.php:84 includes/widgets/products.php:71
+#: includes/widgets/recent_products.php:59
+#: includes/widgets/sale_products.php:59
+#: includes/widgets/single_product_related_products.php:57
+#: includes/widgets/single_product_upsell_products.php:57
+#: includes/widgets/top_rated_products.php:60
+msgid "Random"
+msgstr ""
+
+#: includes/widgets/best_selling_products.php:61
+#: includes/widgets/cart_cross_sells.php:61
+#: includes/widgets/featured_products.php:60
+#: includes/widgets/product_attribute.php:80
+#: includes/widgets/product_categories.php:85
+#: includes/widgets/product_category.php:85 includes/widgets/products.php:72
+#: includes/widgets/recent_products.php:60
+#: includes/widgets/sale_products.php:60
+#: includes/widgets/single_product_related_products.php:58
+#: includes/widgets/single_product_upsell_products.php:58
+#: includes/widgets/top_rated_products.php:61
+msgid "Alphabetic"
+msgstr ""
+
+#: includes/widgets/best_selling_products.php:62
+#: includes/widgets/cart_cross_sells.php:62
+#: includes/widgets/featured_products.php:61
+#: includes/widgets/product_attribute.php:81
+#: includes/widgets/product_categories.php:86
+#: includes/widgets/product_category.php:86 includes/widgets/products.php:73
+#: includes/widgets/recent_products.php:61
+#: includes/widgets/sale_products.php:61
+#: includes/widgets/single_product_related_products.php:59
+#: includes/widgets/single_product_upsell_products.php:59
+#: includes/widgets/top_rated_products.php:62
+msgid "Popularity"
+msgstr ""
+
+#: includes/widgets/best_selling_products.php:63
+#: includes/widgets/cart_cross_sells.php:63
+#: includes/widgets/featured_products.php:62
+#: includes/widgets/product_attribute.php:82
+#: includes/widgets/product_categories.php:87
+#: includes/widgets/product_category.php:87 includes/widgets/products.php:74
+#: includes/widgets/recent_products.php:62
+#: includes/widgets/sale_products.php:62
+#: includes/widgets/single_product_related_products.php:60
+#: includes/widgets/single_product_upsell_products.php:60
+#: includes/widgets/top_rated_products.php:63
+msgid "Rate"
+msgstr ""
+
+#: includes/widgets/best_selling_products.php:64
+#: includes/widgets/cart_cross_sells.php:64
+#: includes/widgets/featured_products.php:63
+#: includes/widgets/product_attribute.php:83
+#: includes/widgets/product_categories.php:88
+#: includes/widgets/product_category.php:88 includes/widgets/products.php:75
+#: includes/widgets/recent_products.php:63
+#: includes/widgets/sale_products.php:63
+#: includes/widgets/single_product_related_products.php:61
+#: includes/widgets/single_product_upsell_products.php:61
+#: includes/widgets/top_rated_products.php:64
+msgid "Price"
+msgstr ""
+
+#: includes/widgets/best_selling_products.php:72
+#: includes/widgets/best_selling_products.php:75
+#: includes/widgets/featured_products.php:71
+#: includes/widgets/featured_products.php:74
+#: includes/widgets/product_attribute.php:91
+#: includes/widgets/product_attribute.php:94
+#: includes/widgets/product_categories.php:96
+#: includes/widgets/product_categories.php:99
+#: includes/widgets/product_category.php:96
+#: includes/widgets/product_category.php:99 includes/widgets/products.php:83
+#: includes/widgets/products.php:86 includes/widgets/recent_products.php:71
+#: includes/widgets/recent_products.php:74
+#: includes/widgets/sale_products.php:71 includes/widgets/sale_products.php:74
+#: includes/widgets/top_rated_products.php:72
+#: includes/widgets/top_rated_products.php:75
+msgid "Ascending or Descending"
+msgstr ""
+
+#: includes/widgets/best_selling_products.php:77
+#: includes/widgets/featured_products.php:76
+#: includes/widgets/product_attribute.php:96
+#: includes/widgets/product_categories.php:101
+#: includes/widgets/product_category.php:101 includes/widgets/products.php:88
+#: includes/widgets/recent_products.php:76
+#: includes/widgets/sale_products.php:76
+#: includes/widgets/top_rated_products.php:77
+msgid "Ascending"
+msgstr ""
+
+#: includes/widgets/best_selling_products.php:78
+#: includes/widgets/featured_products.php:77
+#: includes/widgets/product_attribute.php:97
+#: includes/widgets/product_categories.php:102
+#: includes/widgets/product_category.php:102 includes/widgets/products.php:89
+#: includes/widgets/recent_products.php:77
+#: includes/widgets/sale_products.php:77
+#: includes/widgets/top_rated_products.php:78
+msgid "Descending"
+msgstr ""
+
+#: includes/widgets/breadcrumb.php:10
+msgid "WC Breadcrumb"
+msgstr ""
+
+#: includes/widgets/cart_coupon.php:11
+msgid "WC Cart Coupon"
+msgstr ""
+
+#: includes/widgets/cart_cross_sells.php:11
+msgid "WC Cart Cross Sells"
+msgstr ""
+
+#: includes/widgets/cart_empty.php:11
+msgid "WC Cart Empty"
+msgstr ""
+
+#: includes/widgets/cart_items.php:11
+msgid "WC Cart Items"
+msgstr ""
+
+#: includes/widgets/cart_totals.php:11
+msgid "WC Cart Totals"
+msgstr ""
+
+#: includes/widgets/checkout_billing.php:11
+msgid "WC Checkout Billing"
+msgstr ""
+
+#: includes/widgets/checkout_coupon.php:11
+msgid "WC Checkout Coupon"
+msgstr ""
+
+#: includes/widgets/checkout_order_items.php:11
+msgid "WC Checkout Order"
+msgstr ""
+
+#: includes/widgets/checkout_order_receipt.php:11
+msgid "WC Checkout Order Receipt"
+msgstr ""
+
+#: includes/widgets/checkout_order_receipt.php:35
+msgid "Order Receipt Placeholder"
+msgstr ""
+
+#: includes/widgets/checkout_payment.php:11
+msgid "WC Checkout Payment"
+msgstr ""
+
+#: includes/widgets/checkout_shipping.php:11
+msgid "WC Checkout Shipping"
+msgstr ""
+
+#: includes/widgets/featured_products.php:10
+msgid "WC Featured Products"
+msgstr ""
+
+#: includes/widgets/order_tracking.php:10
+msgid "WC Order Tracking"
+msgstr ""
+
+#: includes/widgets/product_attribute.php:10
+msgid "WC Product Attribute"
+msgstr ""
+
+#: includes/widgets/product_attribute.php:32
+#: includes/widgets/product_attribute.php:35
+msgid "Attribute"
+msgstr ""
+
+#: includes/widgets/product_attribute.php:42
+#: includes/widgets/product_attribute.php:45
+msgid "Filter"
+msgstr ""
+
+#: includes/widgets/product_categories.php:10
+msgid "WC Product Categories"
+msgstr ""
+
+#: includes/widgets/product_categories.php:44
+#: includes/widgets/product_categories.php:48
+msgid "Categories"
+msgstr ""
+
+#: includes/widgets/product_categories.php:57
+#: includes/widgets/product_categories.php:60
+msgid "Number"
+msgstr ""
+
+#: includes/widgets/product_categories.php:110
+#: includes/widgets/product_categories.php:113
+msgid "Hide Empty"
+msgstr ""
+
+#: includes/widgets/product_categories.php:115
+#: includes/widgets/single_product_images.php:64
+#: includes/widgets/single_product_images.php:75
+msgid "Yes"
+msgstr ""
+
+#: includes/widgets/product_categories.php:116
+#: includes/widgets/single_product_images.php:65
+#: includes/widgets/single_product_images.php:76
+msgid "No"
+msgstr ""
+
+#: includes/widgets/product_categories.php:124
+#: includes/widgets/product_categories.php:127
+msgid "Parent"
+msgstr ""
+
+#: includes/widgets/product_category.php:10
+msgid "WC Product Category"
+msgstr ""
+
+#: includes/widgets/product_category.php:44
+#: includes/widgets/product_category.php:47
+msgid "Category*"
+msgstr ""
+
+#: includes/widgets/product_category.php:110
+#: includes/widgets/product_category.php:113
+msgid "Query type"
+msgstr ""
+
+#: includes/widgets/product_category.php:115
+msgid "IN"
+msgstr ""
+
+#: includes/widgets/product_category.php:116
+msgid "AND"
+msgstr ""
+
+#: includes/widgets/product_category.php:117
+msgid "NOT IN"
+msgstr ""
+
+#: includes/widgets/products.php:10
+msgid "WC Products"
+msgstr ""
+
+#: includes/widgets/products.php:32 includes/widgets/products.php:36
+msgid "Select products"
+msgstr ""
+
+#: includes/widgets/products.php:114
+#, php-format
+msgid "#%s &ndash; %s"
+msgstr ""
+
+#: includes/widgets/recent_products.php:10
+msgid "WC Recent Products"
+msgstr ""
+
+#: includes/widgets/sale_products.php:10
+msgid "WC Sale Products"
+msgstr ""
+
+#: includes/widgets/shop_messages.php:10
+msgid "WC Shop Messages"
+msgstr ""
+
+#: includes/widgets/single_product_acf_field.php:11
+msgid "WC ACF Custom Fields"
+msgstr ""
+
+#: includes/widgets/single_product_acf_field.php:62
+#: includes/widgets/single_product_acf_field.php:65
+msgid "Field Name"
+msgstr ""
+
+#: includes/widgets/single_product_add_to_cart.php:10
+msgid "WC Single Product Add to Cart"
+msgstr ""
+
+#: includes/widgets/single_product_additional_information.php:10
+msgid "WC Single Product Additional Information"
+msgstr ""
+
+#: includes/widgets/single_product_custom_field.php:10
+msgid "WC Single Product Custom Field"
+msgstr ""
+
+#: includes/widgets/single_product_custom_field.php:31
+#: includes/widgets/single_product_custom_field.php:34
+msgid "Field key name"
+msgstr ""
+
+#: includes/widgets/single_product_custom_field.php:41
+msgid "Label"
+msgstr ""
+
+#: includes/widgets/single_product_custom_field.php:44
+msgid "Enter label to display before key value."
+msgstr ""
+
+#: includes/widgets/single_product_data_tabs.php:10
+msgid "WC Single Product Data Tabs"
+msgstr ""
+
+#: includes/widgets/single_product_description.php:10
+msgid "WC Single Product Description"
+msgstr ""
+
+#: includes/widgets/single_product_excerpt.php:11
+msgid "WC Single Product Excerpt"
+msgstr ""
+
+#: includes/widgets/single_product_fpd.php:11
+msgid "WC Single FPD Designer"
+msgstr ""
+
+#: includes/widgets/single_product_images.php:12
+msgid "WC Single Product Images"
+msgstr ""
+
+#: includes/widgets/single_product_images.php:35
+msgid "Gallery Type"
+msgstr ""
+
+#: includes/widgets/single_product_images.php:38
+msgid "Deafult by theme"
+msgstr ""
+
+#: includes/widgets/single_product_images.php:39
+msgid "Thumbnails vertical"
+msgstr ""
+
+#: includes/widgets/single_product_images.php:40
+msgid "Thumbnails horizontal"
+msgstr ""
+
+#: includes/widgets/single_product_images.php:41
+msgid "Thumbnails overlay"
+msgstr ""
+
+#: includes/widgets/single_product_images.php:50
+msgid "Thumbnail Columns"
+msgstr ""
+
+#: includes/widgets/single_product_images.php:61
+msgid "Enable Zoom"
+msgstr ""
+
+#: includes/widgets/single_product_images.php:72
+msgid "Enable Lightbox"
+msgstr ""
+
+#: includes/widgets/single_product_meta.php:10
+msgid "WC Single Product Meta"
+msgstr ""
+
+#: includes/widgets/single_product_meta.php:44
+msgid "N/A"
+msgstr ""
+
+#: includes/widgets/single_product_price.php:11
+msgid "WC Single Product Price"
+msgstr ""
+
+#: includes/widgets/single_product_rating.php:10
+msgid "WC Single Product Rating"
+msgstr ""
+
+#: includes/widgets/single_product_rating.php:36
+msgid "No Rating for this product"
+msgstr ""
+
+#: includes/widgets/single_product_rating.php:46
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: includes/widgets/single_product_related_products.php:10
+msgid "WC Single Product Related"
+msgstr ""
+
+#: includes/widgets/single_product_reviews.php:10
+msgid "WC Single Product Reviews"
+msgstr ""
+
+#: includes/widgets/single_product_sharing.php:10
+msgid "WC Single Product Sharing"
+msgstr ""
+
+#: includes/widgets/single_product_title.php:13
+msgid "WC Single Product Title"
+msgstr ""
+
+#: includes/widgets/single_product_upsell_products.php:10
+msgid "WC Single Product Upsell"
+msgstr ""
+
+#: includes/widgets/single_product_upsell_products.php:78
+msgid "No Products Upsells for this product"
+msgstr ""
+
+#: includes/widgets/single_product_wishlist.php:10
+msgid "WC Single Product Wishlist"
+msgstr ""
+
+#: includes/widgets/thankyou_message.php:11
+msgid "WC Thankyou Message"
+msgstr ""
+
+#: includes/widgets/thankyou_message.php:33
+msgid "Order Failed Message"
+msgstr ""
+
+#: includes/widgets/thankyou_message.php:42
+msgid "Order Received Message"
+msgstr ""
+
+#: includes/widgets/thankyou_message.php:51
+msgid "Message Color"
+msgstr ""
+
+#: includes/widgets/thankyou_message.php:77
+msgid "Thankyou Message Placeholder"
+msgstr ""
+
+#: includes/widgets/thankyou_order_details.php:11
+msgid "WC Thankyou Order Details"
+msgstr ""
+
+#: includes/widgets/thankyou_order_details.php:34
+msgid "Thankyou Order Details Placeholder"
+msgstr ""
+
+#: includes/widgets/thankyou_order_overview.php:11
+msgid "WC Thankyou Order Overview"
+msgstr ""
+
+#: includes/widgets/thankyou_order_overview.php:34
+msgid "Thankyou Order Overview Placeholder"
+msgstr ""
+
+#: includes/widgets/top_rated_products.php:11
+msgid "WC Top Rated Products"
+msgstr ""
+
+#: templates/checkout/form-checkout.php:8
+msgid "You must be logged in to checkout."
+msgstr ""

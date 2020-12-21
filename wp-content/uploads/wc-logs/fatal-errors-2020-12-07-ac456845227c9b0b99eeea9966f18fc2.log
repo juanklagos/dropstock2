@@ -1,0 +1,20 @@
+2020-12-07T22:25:59+00:00 CRITICAL Uncaught Error: Call to a member function get_attributes() on null in C:\laragon\www\dropstock\wp-content\themes\woodmart\inc\integrations\woocommerce\template-tags.php:1132
+Stack trace:
+#0 C:\laragon\www\dropstock\wp-content\themes\woodmart\inc\integrations\woocommerce\template-tags.php(1010): woodmart_get_product_attributes_label()
+#1 C:\laragon\www\dropstock\wp-includes\class-wp-hook.php(289): woodmart_product_label('<span class="on...')
+#2 C:\laragon\www\dropstock\wp-includes\plugin.php(206): WP_Hook->apply_filters('<span class="on...', Array)
+#3 C:\laragon\www\dropstock\wp-content\themes\woodmart\woocommerce\single-product\sale-flash.php(25): apply_filters('woocommerce_sal...', '<span class="on...', Object(WP_Post), NULL)
+#4 C:\laragon\www\dropstock\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include('C:\\laragon\\www\\...')
+#5 C:\laragon\www\dropstock\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1605): wc_get_template('single-product/...')
+#6 C:\laragon\www\d en C:\laragon\www\dropstock\wp-content\themes\woodmart\inc\integrations\woocommerce\template-tags.php en la línea 1132
+
+2020-12-07T22:59:34+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on null in C:\laragon\www\dropstock\wp-content\plugins\woocommerce\templates\single-product\price.php:25
+Stack trace:
+#0 C:\laragon\www\dropstock\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\laragon\www\dropstock\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1569): wc_get_template('single-product/...')
+#2 C:\laragon\www\dropstock\wp-content\plugins\dhwc_elementor\includes\widgets\single_product_price.php(80): woocommerce_template_single_price()
+#3 C:\laragon\www\dropstock\wp-content\plugins\elementor\includes\base\controls-stack.php(1894): DHWC_Elementor\Widgets\Widget_Single_Product_Price->render()
+#4 C:\laragon\www\dropstock\wp-content\plugins\elementor\includes\base\widget-base.php(530): Elementor\Controls_Stack->render_by_mode()
+#5 C:\laragon\www\dropstock\wp-content\plugins\dhwc_elementor\includes\widgets\single_product_base.php(13): Elementor\Widget_Base->render_content()
+#6 C:\laragon\w en C:\laragon\www\dropstock\wp-content\plugins\woocommerce\templates\single-product\price.php en la línea 25
+

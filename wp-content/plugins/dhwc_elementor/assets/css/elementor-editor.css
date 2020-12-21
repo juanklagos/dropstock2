@@ -1,0 +1,54 @@
+.icon .dhwc{
+	width:32px;
+	height:32px;
+	display:block;
+	background-image: url('../images/woocommerce.svg') !important;
+	border-color: transparent;
+	background-repeat: no-repeat;
+	margin: 0 auto;
+}
+.icon .dhwc_single_product{
+	width:32px;
+	height:32px;
+	display:block;
+	background-image: url('../images/single-product.svg') !important;
+	border-color: transparent;
+	background-repeat: no-repeat;
+	margin: 0 auto;
+}
+.icon .dhwc_cart{
+	width:32px;
+	height:32px;
+	display:block;
+	background-image: url('../images/cart.svg') !important;
+	border-color: transparent;
+	background-repeat: no-repeat;
+	margin: 0 auto;
+}
+.icon .dhwc_checkout{
+	width:32px;
+	height:32px;
+	display:block;
+	background-image: url('../images/checkout.svg') !important;
+	border-color: transparent;
+	background-repeat: no-repeat;
+	margin: 0 auto;
+}
+.icon .dhwc_archive{
+	width:32px;
+	height:32px;
+	display:block;
+	background-image: url('../images/archive.svg') !important;
+	border-color: transparent;
+	background-repeat: no-repeat;
+	margin: 0 auto;
+}
+.icon .dhwc_account{
+	width:32px;
+	height:32px;
+	display:block;
+	background-image: url('../images/account.svg') !important;
+	border-color: transparent;
+	background-repeat: no-repeat;
+	margin: 0 auto;
+}
