@@ -5,3 +5,15 @@
 2020-12-09 22:44:46 - Starting rcp_check_for_soon_to_expire_users() cron job.
 2020-12-09 22:44:46 - Starting rcp_check_member_counts() cron job.
 2020-12-09 22:44:46 - Starting rcp_mark_abandoned_payments() cron job.
+2020-12-26 15:22:43 - Starting rcp_check_for_expired_users() cron job.
+2020-12-26 15:22:43 - Starting rcp_check_for_soon_to_expire_users() cron job.
+2020-12-26 15:22:43 - Starting rcp_check_member_counts() cron job.
+2020-12-26 15:22:43 - Starting rcp_mark_abandoned_payments() cron job.
+2021-1-12 14:00:52 - Starting rcp_check_for_expired_users() cron job.
+2021-1-12 14:00:52 - Starting rcp_check_for_soon_to_expire_users() cron job.
+2021-1-12 14:00:52 - Starting rcp_check_member_counts() cron job.
+2021-1-12 14:00:52 - Starting rcp_mark_abandoned_payments() cron job.
+2021-1-12 23:12:37 - Starting rcp_check_for_expired_users() cron job.
+2021-1-12 23:12:37 - Starting rcp_check_for_soon_to_expire_users() cron job.
+2021-1-12 23:12:37 - Starting rcp_check_member_counts() cron job.
+2021-1-12 23:12:37 - Starting rcp_mark_abandoned_payments() cron job.

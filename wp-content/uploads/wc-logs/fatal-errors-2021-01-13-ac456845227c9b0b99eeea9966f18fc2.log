@@ -1,0 +1,50 @@
+2021-01-13T00:11:47+00:00 CRITICAL syntax error, unexpected end of file en C:\laragon\www\dropstock2\wp-content\plugins\insert-php-code-snippet\shortcode-handler.php(65) : eval()'d code en la línea 1
+
+2021-01-13T00:11:55+00:00 CRITICAL syntax error, unexpected end of file en C:\laragon\www\dropstock2\wp-content\plugins\insert-php-code-snippet\shortcode-handler.php(65) : eval()'d code en la línea 1
+
+2021-01-13T00:11:56+00:00 CRITICAL syntax error, unexpected end of file en C:\laragon\www\dropstock2\wp-content\plugins\insert-php-code-snippet\shortcode-handler.php(65) : eval()'d code en la línea 1
+
+2021-01-13T00:12:13+00:00 CRITICAL syntax error, unexpected end of file en C:\laragon\www\dropstock2\wp-content\plugins\insert-php-code-snippet\shortcode-handler.php(65) : eval()'d code en la línea 1
+
+2021-01-13T00:12:14+00:00 CRITICAL syntax error, unexpected end of file en C:\laragon\www\dropstock2\wp-content\plugins\insert-php-code-snippet\shortcode-handler.php(65) : eval()'d code en la línea 1
+
+2021-01-13T00:12:23+00:00 CRITICAL syntax error, unexpected end of file en C:\laragon\www\dropstock2\wp-content\plugins\insert-php-code-snippet\shortcode-handler.php(65) : eval()'d code en la línea 1
+
+2021-01-13T00:12:54+00:00 CRITICAL syntax error, unexpected '}', expecting end of file en C:\laragon\www\dropstock2\wp-content\plugins\insert-php-code-snippet\shortcode-handler.php(65) : eval()'d code en la línea 1
+
+2021-01-13T00:12:56+00:00 CRITICAL syntax error, unexpected '}', expecting end of file en C:\laragon\www\dropstock2\wp-content\plugins\insert-php-code-snippet\shortcode-handler.php(65) : eval()'d code en la línea 1
+
+2021-01-13T00:13:22+00:00 CRITICAL syntax error, unexpected '}', expecting end of file en C:\laragon\www\dropstock2\wp-content\plugins\insert-php-code-snippet\shortcode-handler.php(65) : eval()'d code en la línea 1
+
+2021-01-13T00:13:24+00:00 CRITICAL syntax error, unexpected '}', expecting end of file en C:\laragon\www\dropstock2\wp-content\plugins\insert-php-code-snippet\shortcode-handler.php(65) : eval()'d code en la línea 1
+
+2021-01-13T00:13:34+00:00 CRITICAL syntax error, unexpected '}', expecting end of file en C:\laragon\www\dropstock2\wp-content\plugins\insert-php-code-snippet\shortcode-handler.php(65) : eval()'d code en la línea 1
+
+2021-01-13T00:13:35+00:00 CRITICAL syntax error, unexpected '}', expecting end of file en C:\laragon\www\dropstock2\wp-content\plugins\insert-php-code-snippet\shortcode-handler.php(65) : eval()'d code en la línea 1
+
+2021-01-13T00:13:39+00:00 CRITICAL syntax error, unexpected '}', expecting end of file en C:\laragon\www\dropstock2\wp-content\plugins\insert-php-code-snippet\shortcode-handler.php(65) : eval()'d code en la línea 1
+
+2021-01-13T00:20:42+00:00 CRITICAL syntax error, unexpected end of file en C:\laragon\www\dropstock2\wp-content\plugins\insert-php-code-snippet\shortcode-handler.php(65) : eval()'d code en la línea 1
+
+2021-01-13T00:22:15+00:00 CRITICAL Uncaught Error: Call to a member function single_add_to_cart_text() on null in C:\laragon\www\dropstock2\wp-content\plugins\insert-php-code-snippet\shortcode-handler.php(65) : eval()'d code:2
+Stack trace:
+#0 C:\laragon\www\dropstock2\wp-content\plugins\insert-php-code-snippet\shortcode-handler.php(65): eval()
+#1 C:\laragon\www\dropstock2\wp-includes\shortcodes.php(343): xyz_ips_display_content(Array, '', 'xyz-ips')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 C:\laragon\www\dropstock2\wp-includes\shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(xyz\\-i...', 'do_shortcode_ta...', '[xyz-ips snippe...')
+#4 C:\laragon\www\dropstock2\wp-content\plugins\elementor\includes\widgets\shortcode.php(130): do_shortcode('[xyz-ips snippe...')
+#5 C:\laragon\www\dropstock2\wp-content\plugins\elementor\includes\base\controls-stack.php(1894): Elementor\Widget_Shortcode->render()
+#6 C:\laragon\www\dropstock2\wp-content\plugins\elementor\includes\base\widget-base.php(530): Elementor\Controls_Stack->render_by_mode()
+#7 en C:\laragon\www\dropstock2\wp-content\plugins\insert-php-code-snippet\shortcode-handler.php(65) : eval()'d code en la línea 2
+
+2021-01-13T00:22:29+00:00 CRITICAL Uncaught Error: Call to a member function single_add_to_cart_text() on null in C:\laragon\www\dropstock2\wp-content\plugins\insert-php-code-snippet\shortcode-handler.php(65) : eval()'d code:2
+Stack trace:
+#0 C:\laragon\www\dropstock2\wp-content\plugins\insert-php-code-snippet\shortcode-handler.php(65): eval()
+#1 C:\laragon\www\dropstock2\wp-includes\shortcodes.php(343): xyz_ips_display_content(Array, '', 'xyz-ips')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 C:\laragon\www\dropstock2\wp-includes\shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(xyz\\-i...', 'do_shortcode_ta...', '[xyz-ips snippe...')
+#4 C:\laragon\www\dropstock2\wp-content\plugins\elementor\includes\widgets\shortcode.php(130): do_shortcode('[xyz-ips snippe...')
+#5 C:\laragon\www\dropstock2\wp-content\plugins\elementor\includes\base\controls-stack.php(1894): Elementor\Widget_Shortcode->render()
+#6 C:\laragon\www\dropstock2\wp-content\plugins\elementor\includes\base\widget-base.php(530): Elementor\Controls_Stack->render_by_mode()
+#7 en C:\laragon\www\dropstock2\wp-content\plugins\insert-php-code-snippet\shortcode-handler.php(65) : eval()'d code en la línea 2
+
